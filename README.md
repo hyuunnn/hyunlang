@@ -1,6 +1,6 @@
 # hyunlang
 
-I design and develop my own practice language.
+My own programming language.
 
 ## TODO
 
